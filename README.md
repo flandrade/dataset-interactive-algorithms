@@ -6,16 +6,16 @@ This dataset consists of 50 images, ground-truth data and two sets of _scribbles
 [available](http://sapyc.espe.edu.ec/segevaluation). As can be seen, the images contain an object that could be 
 unambiguously extracted by users.
 
-<img src="https://raw.githubusercontent.com/flandrade/flandrade.github.io/master/images/segmentation-01.jpg" width="49%"/> 
-<img src="https://raw.githubusercontent.com/flandrade/flandrade.github.io/master/images/segmentation-08.jpg" width="49%"/>
+<img src="http://ferandrade.com/assets/images/segmentation-01.jpg" width="49%"/> 
+<img src="http://ferandrade.com/assets/images/segmentation-08.jpg" width="49%"/>
 
 For this compilation, the publicly available 
 [GrabCut](http://research.microsoft.com/en-us/um/cambridge/projects/visionimagevideoediting/segmentation/grabcut.htm) 
 and [Geodesic Star convexity dataset](http://www.robots.ox.ac.uk/~vgg/research/iseg/#Dataset) were taken as starting 
 point. Original images and ground-truth data are from the GrabCut database.
 
-<img src="https://raw.githubusercontent.com/flandrade/flandrade.github.io/master/images/segmentation-05.jpg" width="49%"/> 
-<img src="https://raw.githubusercontent.com/flandrade/flandrade.github.io/master/images/segmentation-06.jpg" width="49%"/>
+<img src="http://ferandrade.com/assets/images/segmentation-05.jpg" width="49%"/> 
+<img src="http://ferandrade.com/assets/images/segmentation-06.jpg" width="49%"/>
 
 User inputs are provided by means of two sets of _scribbles_ which indicate foreground and background regions. For 
 the first set, we use the _scribbles_ for initializing robot user from the Geodesic Star Convexit dataset. These 
@@ -34,8 +34,8 @@ Bogota, Colombia, pp. 225-231, September 2015. ([IEEE](http://ieeexplore.ieee.or
 
 ## Notes about the research 
 
-* [The Problem of Evaluating Interactive Segmentation](http://flandrade.github.io/blog/research/2015/07/24/problem-evaluating-interactive-segmentation.html)
-* [Novel Dataset for Interactive Segmentation Evaluation](http://flandrade.github.io/blog/research/2015/07/25/interactive-segmentation-dataset.html)
+* [The Problem of Evaluating Interactive Segmentation](http://ferandrade.com/blog/2015/07/problem-evaluating-interactive-segmentation.html)
+* [Novel Dataset for Interactive Segmentation Evaluation](http://ferandrade.com/blog/2015/07/interactive-segmentation-dataset.html)
 
 ## Acknowledgements
 
